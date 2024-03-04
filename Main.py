@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+"""
+_file name_ = Main.py
+__python version = 3.11
+_author_ = "Prathamesh Chaudhari - prathamc9221@gmail.com",
+_status_ = "Development"
+"""
+
+
 # import modules
 
 from os import name
