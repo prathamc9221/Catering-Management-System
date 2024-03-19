@@ -1,1 +1,2 @@
 1) Python T-kinter Libray for user Interface. 
+2) Setup sqlite server(local/remote).
