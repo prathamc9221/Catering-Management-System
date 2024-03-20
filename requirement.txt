@@ -1,2 +1,3 @@
 1) Python T-kinter Libray for user Interface. 
 2) Setup sqlite server(local/remote).
+3) Fire queries in python using Cursor.
